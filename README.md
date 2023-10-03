@@ -10,6 +10,9 @@
 [![Static Badge](https://img.shields.io/badge/Connect!-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-estrada-ceballos/)
 [![carlosestradac13@gmail.com](https://shields.io/badge/%F0%9F%93%A8%20carlosestradac13@gmail.com-beige?style=for-the-badge)](mailto:carlosestradac13@gmail.com)
 
+## Resume
+[Carlos Resume.pdf](https://github.com/CarlosChivas/CarlosChivas/files/12788004/Carlos.Resume.pdf)
+
 ## Experience
 
 - **C3**, ***Software Engineer*** - Web application developer improving internal tools providing improvements within the performance of each developer in the company (June 2023 - Current)
